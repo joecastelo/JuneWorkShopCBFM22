@@ -58,7 +58,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="..\..\plugins\June22WorkShopPCheck.cs" />
+    <Compile Include="June22WorkShopPCheck.cs" />
     <Compile Include="CheckScreen.xaml.cs">
       <DependentUpon>CheckScreen.xaml</DependentUpon>
     </Compile>
