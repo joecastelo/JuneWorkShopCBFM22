@@ -2,6 +2,12 @@
 Code for the June blog post about the varian ESAPI workshop at CBFM22
 ## Plan Check June 22 , 07/11, Fortaleza, Brazil 
 
+Download the code, open the SLN or csproj in Visual Studio 2019
+Reference the VMS.TPS libraries (if you are in TBOX)
+C:\Program Files (x86)\Varian\RTM\15.6\esapi\API\VMS.TPS.Common.Model.Types.dll
+C:\Program Files (x86)\Varian\RTM\15.6\esapi\API\VMS.TPS.Common.Model.API.dll
+Compile it and go to Tools/Scripts, Open Folder looking for this file Solution folder bin/June22WorkShopPCheck.esapi.dll
+
 ### João Henrique Castelo and Anselmo Mancini 
 
 #### We need 5 checks
